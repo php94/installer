@@ -1,0 +1,15 @@
+{
+    "name": "php94/installer",
+    "title": "安装程序",
+    "description": "可视化安装程序，如需重新安装，请启用本应用",
+    "license": "GPL-3.0",
+    "type": "php94",
+    "require": {
+        "rah/danpu": "^2.7"
+    },
+    "autoload": {
+        "psr-4": {
+            "App\\Php94\\Installer\\": "src/library/"
+        }
+    }
+}
