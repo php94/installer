@@ -4,8 +4,8 @@ declare(strict_types=1);
 
 namespace App\Php94\Installer\Http;
 
-use PHP94\Facade\Factory;
-use PHP94\Help\Request;
+use PHP94\Factory;
+use PHP94\Request;
 use Psr\Http\Message\ResponseInterface;
 
 class File extends Common

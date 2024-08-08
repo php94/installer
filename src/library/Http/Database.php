@@ -6,9 +6,9 @@ namespace App\Php94\Installer\Http;
 
 use Composer\Autoload\ClassLoader;
 use PDO;
-use PHP94\Facade\Template;
-use PHP94\Help\Request;
-use PHP94\Help\Response;
+use PHP94\Template;
+use PHP94\Request;
+use PHP94\Response;
 use Rah\Danpu\Dump;
 use Rah\Danpu\Import;
 use ReflectionClass;

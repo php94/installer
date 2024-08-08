@@ -5,8 +5,8 @@ declare(strict_types=1);
 namespace App\Php94\Installer\Http;
 
 use Composer\Autoload\ClassLoader;
-use PHP94\Facade\Template;
-use PHP94\Help\Response;
+use PHP94\Template;
+use PHP94\Response;
 use ReflectionClass;
 
 class License extends Common
