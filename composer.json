@@ -3,7 +3,7 @@
     "title": "安装程序",
     "description": "可视化安装程序，如需重新安装，请启用本应用",
     "license": "GPL-3.0",
-    "version": "1.0.1",
+    "version": "1.0.3",
     "type": "php94",
     "require": {
         "rah/danpu": "^2.7"
