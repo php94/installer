@@ -1,7 +1,7 @@
 <?php
 
 use App\Php94\Installer\Middleware\InstallerMiddleware;
-use PHP94\Handler\Handler;
+use PHP94\Handler;
 
 return [
     Handler::class => function (
